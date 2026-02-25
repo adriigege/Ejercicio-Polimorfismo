@@ -115,11 +115,8 @@ Funcionamiento:
 4. Sigue las instrucciones que aparecen por pantalla.
 
 ---
-### 3️⃣ Ejecución desde consola
-
-Desde la carpeta `src`:
+### 📥 Clonar el repositorio
 
 ```bash
-javac Main.java model/*.java
-java Main
-```
+git clone https://github.com/adriigege/Ejercicio-Polimorfismo.git
+
