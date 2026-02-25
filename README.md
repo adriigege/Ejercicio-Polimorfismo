@@ -111,7 +111,7 @@ Funcionamiento:
 
 1. Importa el proyecto en tu IDE.
 2. Accede a la carpeta: u4-2-ejercicio 8/src
-3. 3. Ejecuta la clase `Main.java`.
+3. Ejecuta la clase `Main.java`.
 4. Sigue las instrucciones que aparecen por pantalla.
 
 ---
