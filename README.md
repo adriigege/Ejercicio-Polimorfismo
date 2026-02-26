@@ -98,6 +98,13 @@ Funcionamiento:
 
 ## ▶️ Cómo ejecutar el programa
 
+### 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/adriigege/Ejercicio-Polimorfismo.git
+```
+---
+
 ### 1️⃣ Requisitos
 
 - Tener **Java JDK** instalado
@@ -113,9 +120,4 @@ Funcionamiento:
 3. Ejecuta la clase `Main.java`.
 4. Sigue las instrucciones que aparecen por pantalla.
 
----
-### 📥 Clonar el repositorio
-
-```bash
-git clone https://github.com/adriigege/Ejercicio-Polimorfismo.git
 
