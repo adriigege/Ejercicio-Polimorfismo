@@ -1,5 +1,4 @@
 # Ejercicio de Polimorfismo — Juego Multijugador en Java
-Ejercicio básico de polimorfismo con sobreescritura de métodos (overriding) hecho por mi, aprendido en el Ciclo Formativo Grado Superior de Desarrollo de Aplicaciones Web (DAW).
 
 Este proyecto es una aplicación en **Java** que permite simular partidas de distintos juegos (Ajedrez, Damas y Tres en raya) entre dos jugadores. El código está organizado en varias clases que representan jugadores, un tablero, una clase base de juego y subclases específicas para cada tipo de juego.
 
