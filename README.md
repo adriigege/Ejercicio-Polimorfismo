@@ -120,4 +120,6 @@ git clone https://github.com/adriigege/Ejercicio-Polimorfismo.git
 3. Ejecuta la clase `Main.java`.
 4. Sigue las instrucciones que aparecen por pantalla.
 
+---
+
 
